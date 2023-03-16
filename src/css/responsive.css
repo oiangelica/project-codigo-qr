@@ -1,0 +1,10 @@
+/* @media (min-width: 768px) {
+.content{
+    display: flex;
+    flex-shrink: 1;
+    min-width:180px;
+    max-width: 400px;
+}
+ }
+
+@media (min-width: 1400px) { } */
